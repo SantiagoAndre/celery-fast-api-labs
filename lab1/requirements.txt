@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+celery
+redis==4.3.4
+flower==1.2.0
+pytest
+requests
+httpx
