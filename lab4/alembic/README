@@ -1,0 +1,5 @@
+# Generic single-database configuration.
+
+# from main import app
+# from project.database import Base, engine
+# Base.metadata.create_all(bind=engine)
